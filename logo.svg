@@ -1,0 +1,11 @@
+
+      <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+        <rect x="70" y="20" width="160" height="160" fill="black"/>
+         
+          <text x="150" y="121.21212121212122" 
+                text-anchor="middle"
+                fill="green" font-size="60">
+            JML
+          </text>
+        
+      </svg>

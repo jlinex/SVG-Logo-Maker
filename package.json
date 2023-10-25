@@ -1,0 +1,21 @@
+{
+    "name": "list-geni",
+    "version": "1.0.0",
+    "description": "A command line list generator. Input the tasks you plan to complete today and List Geni generates a cleanly styled html document for viewing your tasks.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "type": "module",
+    "devDependencies": {
+        "@babel/preset-env": "^7.23.2",
+        "jest": "^28.1.3"
+    }
+}
