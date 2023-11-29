@@ -10,7 +10,7 @@ I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
 ## Video
-https://drive.google.com/file/d/1SdvjqRC3rvg2MdmzyPXhVzx9Ygbc7_8H/view
+https://drive.google.com/file/d/1qawxHnht67LB-UpWR9VK77-Ha5tgvjys/view
 
 ## Sample SVG File
 ![Alt text](image.png)
