@@ -105,7 +105,7 @@ inquirer
 
     fs.writeFileSync(`${__dirname}/logo.svg`, svgData.toString());
 
-    console.log('Generated_logo.svg');
+    console.log('Generated logo!');
   })
   .catch((error) => {
     console.error(error);

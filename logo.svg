@@ -1,10 +1,10 @@
 
     <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-      <circle cx="150" cy="100" r="75" fill="" />
+      <rect x="75" y="25" width="150" height="150" fill=""/>
       
             <text x="150" y="121.21212121212122" 
                   text-anchor="middle"
-                  fill="red" font-size="58">
+                  fill="green" font-size="60">
               JML
             </text>
           
